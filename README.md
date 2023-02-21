@@ -4,8 +4,9 @@
     I'm interessed in programming and bio-informatics. 
     I am currently doing a master's degree in bioinformatics.
 </div>
-
-<style>
-    
-</style>
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+</style>")
 
