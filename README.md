@@ -5,9 +5,7 @@
     I am currently doing a master's degree in bioinformatics.
 </div>
 
-```{css, echo=FALSE}
-.typewriter {
-  font-size: 32px;
-}
-```
+<style>
+    
+</style>
 
