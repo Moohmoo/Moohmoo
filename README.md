@@ -2,6 +2,6 @@
                                                                              
 Hi, I'm Mohamed.
 
-Bioinformatician & CS graduate. Passionate about software development, AI, data science, and plenty of things outside of code.
+My background is a mix of computer science and bioinformatics, but at my core, I just love building reliable software.
   
 Feel free to check out my projects!
